@@ -27,7 +27,7 @@ The **Corporate Agent** is an AI-powered legal assistant designed to review, val
 ## Setup Instructions
 ```bash
 # Clone repository
-git clone <repo_url>
+git clone <https://github.com/2CentsCapitalHR/ai-engineer-task-MOHAMMEDNAVEED19.git>
 cd corporate-agent
 
 # Install dependencies
